@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    display: grid;
+    place-items: center;
+    margin-top: 100px;
+    background-color: black;
+  }
+
+ 
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 30px;
+    gap: 10px;
+    width: 250px;
+    height: 250px;
+    background-color: #995db5;
+    margin-top: 50px;
+    border-radius: 20px;
+  }
+  
+  .quti {
+    width: 50px;
+    height: 200px;
+    background-color: #f7941f;
+    border-radius: 10px;
+    border: 1px solid black;
+  }
+  
+  .quti1 {
+    width: 50px;
+    height: 70px;
+  }
+  
+  .quti2 {
+    width: 50px;
+    height: 100px;
+  }
+  
+  .quti3 {
+    width: 50px;
+    height: 40px;
+  }
+  
+  .quti4 {
+    width: 50px;
+    height: 60px;
+  }
